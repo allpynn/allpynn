@@ -47,9 +47,9 @@
 
 ###
 
-I'm a passionate developer who loves crafting intuitive user interfaces and exploring smart systems. I enjoy turning ideas into meaningful digital experiences.
-
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=allpynn.allpynn&"  />
+</div>
 
 ### 🚀 About Me
 
