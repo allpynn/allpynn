@@ -1,4 +1,4 @@
-<h1 align="center">Heyyo 👋 What's up? I'm Alvin Khoirul</h1>
+<h1 align="center">Heyyo 👋 What's up?</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm **Alvin Khoirul**, an Informatics student at **Universitas Ahmad Dahlan**.
+Hi! I'm **Muhammad Alvin Khoirul Rizky** from Indonesia, an Informatics student at **Universitas Ahmad Dahlan**.
 
 - 🎓 Informatics student with a focus on **UI/UX** and **Web Development**
 - 🧠 Currently learning about **machine learning**, and **frontend development with Laravel**
