@@ -3,31 +3,6 @@
 ###
 
 <div align="center">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=alpinejs" height="60" alt="alpinejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://linkedin.com/in/alvinkhoirul" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
@@ -51,42 +26,51 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=allpynn.allpynn&"  />
 </div>
 
-### 🚀 About Me
+## 🙋‍♂️ About Me
+
+Hi! I'm **Alvin Khoirul**, an Informatics student at **Universitas Ahmad Dahlan**.
 
 - 🎓 Informatics student with a focus on **UI/UX** and **Web Development**
-- 📱 Developing Android apps with **Kotlin**
-- 🧠 Currently learning about **machine learning**, **Laravel**, and **frontend frameworks**
-- 🎨 Designing with **Figma**, building with **Tailwind CSS** and **React**
+- 🧠 Currently learning about **machine learning**, and **frontend development with Laravel**
+- 🎨 Designing with **Figma**, building with **Tailwind CSS**
 - 🎮 Creating immersive roleplay mechanics for **FiveM** using **Lua**
-- 🔍 Interested in smart systems, automation, and creative tech projects
 
 ---
 
-### 💼 Tech Stack
-
-#### 🎮 Game Development (FiveM)
-
-- Lua scripting (client & server)
-- ESX / QBCore customization
-
-#### 🌐 Web Development
-
-- PHP (Laravel)
-- JavaScript (React, Alpine.js)
-- Tailwind CSS, Bootstrap
-
-#### 🛠️ Tools
-
-- Git & GitHub
-- Android Studio, VS Code
-- Figma, CorelDraw
-
----
-
-### 📈 GitHub Stats
+### 📈 My Stats
 <div align="center">
-![Allpynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=allpynn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allpynn&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=allpynn&show_icons=true&theme=radical" alt="Allpynn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allpynn&layout=compact&theme=radical" alt="Top Langs" />
 </div>
----
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="60" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="60" alt="alpinejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+</div>
+
+###
 
