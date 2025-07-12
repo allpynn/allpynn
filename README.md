@@ -41,6 +41,7 @@ Hi! I'm **Alvin Khoirul**, an Informatics student at **Universitas Ahmad Dahlan*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allpynn&show_icons=true&theme=radical" alt="Allpynn's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allpynn&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allpynn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 ###
@@ -76,21 +77,5 @@ Hi! I'm **Alvin Khoirul**, an Informatics student at **Universitas Ahmad Dahlan*
 
 ###
 
-<img src="https://raw.githubusercontent.com/allpynn/allpynn/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
 
