@@ -70,6 +70,26 @@ Hi! I'm **Alvin Khoirul**, an Informatics student at **Universitas Ahmad Dahlan*
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/allpynn/allpynn/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
 </div>
 
 ###
