@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up? I'm Alvin Khoirul</h1>
+<h1 align="center">Heyyo 👋 What's up? I'm Alvin Khoirul</h1>
 
 ###
 
@@ -90,13 +90,3 @@ I'm a passionate developer who loves crafting intuitive user interfaces and expl
 
 ---
 
-###
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
