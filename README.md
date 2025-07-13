@@ -26,14 +26,21 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=allpynn.allpynn&"  />
 </div>
 
-## 🙋‍♂️ About Me
+### 
 
-Hi! I'm **Muhammad Alvin Khoirul Rizky** from Indonesia, an Informatics student at **Universitas Ahmad Dahlan**.
+<h3 align="left"> 🙋‍♂️ About Me </h3>
 
-- 🎓 Informatics student with a focus on **UI/UX** and **Web Development**
-- 🧠 Currently learning about **machine learning**, and **frontend development with Laravel**
+###
+Hi! I'm **Muhammad Alvin Khoirul Rizky** from **East Borneo Indonesia**.
+
+
+- 🎓  I’m a **6th**-semester Informatics student at **Universitas Ahmad Dahlan**
+- 🧠 Currently learning about **UI/UX Design**, and **frontend development with Laravel**
 - 🎨 Designing with **Figma**, building with **Tailwind CSS**
 - 🎮 Creating immersive roleplay mechanics for **FiveM** using **Lua**
+- ⚡ In my free time, I explore new technologies, contribute to projects, and improve my coding skills
+
+###
 
 ---
 
